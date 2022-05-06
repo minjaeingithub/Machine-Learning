@@ -8,7 +8,7 @@
 
 <h3><strong>How to Execute: Please just click the cells in order!</strong></h3>
 
-<h3> Explanation about model and brief composition of codes</>
+<h3> Explanation about model and brief composition of codes</h3>
 
 <ol> 1. I used .ipynb file extension and seperated cells. Before each cells, there is inline markdowns, implicating the total cell's intention.</ol>
 
